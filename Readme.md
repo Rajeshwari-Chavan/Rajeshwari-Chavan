@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey ! , This is Rajeshwari Chavan. <br>Starting , my journey as Software engineer . 
+<h3>Hey ! , This is Rajeshwari Chavan.</h3> 
 
 
 # 💻 Tech Stack:
